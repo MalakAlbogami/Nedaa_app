@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.m.nedaaapplication.FristAid">
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="344dp"
+        android:layout_height="495dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="الاغماء: إذا كان المصاب في حالة إغماء : إبحث عن أي جسم غريب في الفم كالأسنان  الصناعية أو بقايا القيء وأزلها وأمل رأسه جانبا والى الأسفل إذا أمكن واجذ بلسانه إلى الأمام حتى لا يختنق . إذا كان التنفس متوقفا أجر له تنفسا صناعيا من الفم للفم فورا .  النزيف :  في حالة وجود نزف ظاهر يوقف النزف بالضغط على موضع النزف بالأصابع أو بقطعة قماش نظيفة أو يربط النازف في مكان أعلى من الجرح برباط ضاغط.  في حالة الاشتباه في وجود نزف داخلي يجب الإسراع في نقل المصاب لمركز  الرعاية الصحية ، وعلامات النزف الداخلي هي : قلق المصاب ، وشكواه من العطش ، وسرعة تنفسه ، وشحوب لونه وبرودة جلده وسرعة النبض وضعفه ، مع عدم وجود إصابة ظاهرة .   ضربة شمس:  ( أي لا يوجد تعرق ، حرارته مرتفعه ، الجلد أحمر وساخن ) يمدد المصاب بعيدا  عن الشمس ورأسه أعلى من قدميه مع غمس أطرافه في ماء بارد مثلج .  الغريق :   بعد إخراج المصاب من الماء، أزل فورا أي عوائق قد تكون في فم الغريق (مثل أعشاب البحر)، وضعه على سطح صلب (مثل رمال الشاطئ أو كتف المسبح أو سطح الزورق).- افحص بسرعة التنفس والنبض، وإذا كان التنفس متوقفا، باشر عملية التنفس الاصطناعي .- حالما يبدأ المصاب بالتنفس، مدده بوضعية الإنقاذ المريح - انزع عنه ملابسه المبتلة إن أمكن، وجفف جسمه وغطه بمناشف أو قطع ملابس جافة لتمنع عنه البرد، وعالجه من تدني الحرارة إن كان ذلك ضروريا . تدبر أمر نقله إلى المستشفى بأقرب فرصة، مع الحفاظ على وضع المعالجة.  "
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

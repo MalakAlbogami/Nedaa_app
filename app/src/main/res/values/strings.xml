@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">NedaaApplication</string>
+
+
+    <string name="login">تسجيل دخول</string>
+    <string name="responAuthority">جهة حكومية</string>
+    <string name="NewUser">مستخدم جديد</string>
+    <string name="loginas">تسجيل الدخول كــ:</string>
+    <string name="img1">img1</string>
+
+    <!--user register page -->
+
+    <string name="regist">تسجيل</string>
+    <string name="fullName">الاسم كامل</string>
+    <string name="phoneNum">رقم الجوال</string>
+    <string name="Rusername">اسم المستخدم</string>
+    <string name="Rpassword">كلمة المرور</string>
+    <string name="img2">img2</string>
+
+
+    <!-- page of user login-->
+
+    <string name="Uusername">اسم المستخدم</string>
+    <string name="Upassword">كلمة المرور</string>
+    <string name="img3">img3</string>
+    <string name="Ulogin">تسجيل الدخول</string>
+
+
+    <!-- page of admin login-->
+
+    <string name="img4">img4</string>
+    <string name="Ausername">اسم المستخدم</string>
+    <string name="Apassword">كلمة المرور</string>
+    <string name="Alogin">تسجيل </string>
+
+
+    <!-- user main page-->
+
+    <string name="publicSecurity">الأمن العام</string>
+    <string name="ps">PS</string>
+    <string name="cd">CD</string>
+    <string name="civilDefense">الدفاع المدني</string>
+    <string name="ef">EF</string>
+    <string name="EmergForces">قوات الطوائ</string>
+    <string name="rc">RC</string>
+    <string name="redCrescent">الهلال الأحمر</string>
+    <string name="ECM">ادارة الطوارئ والأزمات</string>
+    <string name="services">خدمات اخرى</string>
+
+
+    <!-- public security problems page-->
+
+
+    <string name="img5">img5</string>
+    <string name="PStype">نوع المشكلة :</string>
+    <string name="PS1">حادث مروري</string>
+    <string name="PS2">سرقة</string>
+    <string name="PS3">شجار</string>
+    <string name="PS4">غير ذلك</string>
+    <string name="PS5">غير ذلك</string>
+    <string name="PSsend">ارسال المشكلة </string>
+    <!-- emergency forces  problems page-->
+
+    <string name="img6">img6</string>
+    <string name="EFtype">نوع المشكلة :</string>
+    <string name="EF1">شغب</string>
+    <string name="EF2">ارهاب</string>
+    <string name="EF3">مظاهرات</string>
+    <string name="EF4">غير ذلك</string>
+    <string name="EF5">غير ذلك</string>
+    <string name="EFsend"> ارسال المشكلة </string>
+
+    <!-- civil defence  problems page-->
+
+    <string name="img7">img7</string>
+    <string name="CDtype">نوع المشكلة:</string>
+    <string name="CD1">احتجاز</string>
+    <string name="CD2">حريق</string>
+    <string name="CD3">غير ذلك</string>
+    <string name="CD4">غير ذلك</string>
+    <string name="CDsend">ارسال المشكلة </string>
+
+    <!-- ECM  problems page-->
+
+    <string name="img8">img8</string>
+    <string name="ECMtype">نوع المشكلة:</string>
+    <string name="ECM1">زلزال</string>
+    <string name="ECM2">فيضانات</string>
+    <string name="ECM3">رياح وأعاصير</string>
+    <string name="ECM4">حرايق طبيعية</string>
+    <string name="ECM5">غير ذلك</string>
+    <string name="ECM6">غير ذلك</string>
+    <string name="ECMsend">ارسال المشكلة </string>
+
+    <!-- RC  problems page-->
+
+    <string name="img9">img9</string>
+    <string name="RCtype">نوع المشكلة :</string>
+    <string name="RC1">تسمم</string>
+    <string name="RC2">حادث مروري</string>
+    <string name="RC3">كسور</string>
+    <string name="RC4">حريق</string>
+    <string name="RC5">نزيف</string>
+    <string name="RC6">أزمة قلبية</string>
+    <string name="RC7">فقدان الوعي</string>
+    <string name="RC8">غير ذلك</string>
+    <string name="RCsend">ارسال المشكلة </string>
+
+    <string name="RC9">غير ذلك</string>
+
+    <!--  page-->
+
+    <string name="img10">img10</string>
+    <!-- Statistic page-->
+
+    <string name="img11">img11</string>
+    <string name="reportsNum">بلغ عدد البلاغات :</string>
+    <string name="img12">img12</string>
+    <string name="RCsend2">تحديد الموقع</string>
+    <string name="CDsend2">تحديد الموقع</string>
+    <string name="title_activity_map">Map</string>
+    <string name="showReports">عرض البلاغات</string>
+    <string name="img17">TODO</string>
+    <string name="report1">بلاغ 1</string>
+    <string name="report2">بلاغ2</string>
+    <string name="report3">بلاغ3</string>
+    <string name="textview">TextView</string>
+    <string name="adminlogin">تسجيل الدخول</string>
+    <string name="ecmlocation">تحديد الموقع</string>
+    <string name="location">تحديد الموقع</string>
+
+    <!-- sr page-->
+</resources>

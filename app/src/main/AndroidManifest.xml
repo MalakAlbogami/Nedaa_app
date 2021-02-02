@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.m.nedaaapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainPageOfLogin">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".userRegister" />
+        <activity android:name=".userlogin" />
+        <activity android:name=".userMainPage" />
+        <activity android:name=".Adminlogin" />
+        <activity android:name=".RCproblem" />
+        <activity android:name=".CDproblem" />
+        <activity android:name=".EFproblem" />
+        <activity android:name=".PSproblem" />
+        <activity android:name=".ECMproblem" />
+        <activity android:name=".Services" />
+        <activity android:name=".FristAid" />
+        <activity android:name=".statistic" />
+        <activity android:name=".reportDetails" />
+        <activity android:name=".AdminMainPage" />
+        <activity android:name=".CDreportDetails"></activity>
+    </application>
+
+</manifest>
